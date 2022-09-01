@@ -1,0 +1,17 @@
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\bin\Debug\net6.0-windows\IF Notes.exe
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\bin\Debug\net6.0-windows\IF Notes.deps.json
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\bin\Debug\net6.0-windows\IF Notes.runtimeconfig.json
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\bin\Debug\net6.0-windows\IF Notes.dll
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\bin\Debug\net6.0-windows\IF Notes.pdb
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\IF Notes.vbproj.AssemblyReference.cache
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\IF_Notes.Form1.resources
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\IF Notes.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\IF Notes.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\IF Notes.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\IF Notes.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\IF Notes.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\IF Notes.dll
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\refint\IF Notes.dll
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\IF Notes.pdb
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\IF Notes.genruntimeconfig.cache
+G:\My Drive\Courses\CS1\03 If-Then Statements\IF Notes\IF Notes\obj\Debug\net6.0-windows\ref\IF Notes.dll
