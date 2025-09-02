@@ -1,0 +1,17 @@
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\IF Notes.vbproj.GenerateResource.cache
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\IF_Notes.Form1.resources
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\IF_Notes.Resources.resources
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\IF Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\IF Notes.AssemblyInfoInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\IF Notes.AssemblyInfo.vb
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\IF Notes.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\bin\Debug\net8.0-windows7.0\IF Notes.exe
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\bin\Debug\net8.0-windows7.0\IF Notes.deps.json
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\bin\Debug\net8.0-windows7.0\IF Notes.runtimeconfig.json
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\bin\Debug\net8.0-windows7.0\IF Notes.dll
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\bin\Debug\net8.0-windows7.0\IF Notes.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\IF Notes.dll
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\refint\IF Notes.dll
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\IF Notes.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\IF Notes.genruntimeconfig.cache
+C:\Users\foxrw\My Drive\Courses\CS1\03 If-Then Statements\IF Notes Student\IF Notes\obj\Debug\net8.0-windows7.0\ref\IF Notes.dll
