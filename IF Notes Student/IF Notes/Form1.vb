@@ -41,6 +41,7 @@
 
         Dim temp As Integer
         temp = TextBox1.Text
+        
     End Sub
 
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
@@ -89,14 +90,7 @@
         'label. The tip should be 15% of the check, with a minimum 
         'of $3. 
 
-        'The code is mostly done. Add an if statement
-        'that changes the tip to 3 if necessary
 
-        Dim check, tip As Double
-        check = TextBox1.Text 'Input
-        tip = check * 0.15 'Compute
-
-        Label2.Text = tip 'Output
     End Sub
 
     Private Sub Button11_Click(sender As Object, e As EventArgs) Handles Button11.Click
@@ -118,4 +112,5 @@
 
     End Sub
 End Class
+
 
