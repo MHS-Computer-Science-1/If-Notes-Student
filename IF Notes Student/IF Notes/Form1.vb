@@ -2,8 +2,8 @@
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         'Relational operators are used to compare two
         'values. They give a BOOLEAN (true/false) result
-        Label2.Text = 5 < 2
         'Relational operators: <, >, =, <>, <=, >=
+        
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
@@ -118,3 +118,4 @@
 
     End Sub
 End Class
+
